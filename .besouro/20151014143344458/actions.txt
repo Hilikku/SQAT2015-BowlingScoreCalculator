@@ -50,3 +50,6 @@ UnitTestCaseAction 1444825183827 TestBowlingScoreCalculator.java OK
 UnitTestSessionAction 1444825183828 TestBowlingScoreCalculator OK
 RefactoringAction 1444825217873 TestBowlingScoreCalculator.java ADD void testPlayerThrowsOnlyOnce() METHOD
 EditAction 1444825279354 TestBowlingScoreCalculator.java 748 3 8 5
+UnitTestCaseAction 1444825282204 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444825282205 TestBowlingScoreCalculator FAIL
+EditAction 1444825290481 TestBowlingScoreCalculator.java 748 3 8 5
