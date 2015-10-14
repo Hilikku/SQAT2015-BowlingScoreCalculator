@@ -123,3 +123,5 @@ RefactoringAction 1444826663611 TestBowlingScoreCalculator.java RENAME testGmae(
 RefactoringAction 1444826665130 TestBowlingScoreCalculator.java RENAME testGameConsistsOf()=>void testGameConsistsOfTen() METHOD
 RefactoringAction 1444826666649 TestBowlingScoreCalculator.java RENAME testGameConsistsOfTen()=>void testGameConsistsOfTenFrames() METHOD
 EditAction 1444826704140 TestBowlingScoreCalculator.java 1325 7 17 10
+CompilationAction 1444826704407 TestBowlingScoreCalculator.java
+EditAction 1444826721315 BowlingGame.java 584 5 2 0
