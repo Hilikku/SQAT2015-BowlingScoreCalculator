@@ -17,7 +17,7 @@ public class TestBowlingScoreCalculator {
 	}
 	
 	@Test
-	public void testPlayerThrowsOnlyOnce() {
+	public void testPlayerThrowsFirstTenAndTriesToThrowSecondTime() {
 		Frame frame = new Frame(10,6);
 		assertEquals(10, frame.getFirstThrow());
 		assertEquals(0, frame.getSecondThrow());
