@@ -105,3 +105,9 @@ RefactoringAction 1444826463013 TestBowlingScoreCalculator.java RENAME testPlaye
 RefactoringAction 1444826466032 TestBowlingScoreCalculator.java RENAME testPlayerThrowsFirst()=>void testPlayerThrowsFirstTenAndTries() METHOD
 RefactoringAction 1444826471049 TestBowlingScoreCalculator.java RENAME testPlayerThrowsFirstTenAndTries()=>void testPlayerThrowsFirstTenAndTriesToThrowSecondTime() METHOD
 EditAction 1444826474589 TestBowlingScoreCalculator.java 1026 5 12 7
+RefactoringAction 1444826549145 TestBowlingScoreCalculator.java ADD void testPlayerThrowsFirstTenAndTriesToThrowSecondTime()/2 METHOD
+RefactoringAction 1444826558664 TestBowlingScoreCalculator.java RENAME testPlayerThrowsFirstTenAndTriesToThrowSecondTime()/2=>void testThrows() METHOD
+RefactoringAction 1444826561682 TestBowlingScoreCalculator.java RENAME testThrows()=>void testThrowsAreIncorrect() METHOD
+RefactoringAction 1444826565700 TestBowlingScoreCalculator.java RENAME testThrowsAreIncorrect()=>void testThrowsAreIncorrectSc() METHOD
+RefactoringAction 1444826567218 TestBowlingScoreCalculator.java RENAME testThrowsAreIncorrectSc()=>void testThrowsAreIncorrectScores() METHOD
+EditAction 1444826577096 TestBowlingScoreCalculator.java 1210 6 15 9

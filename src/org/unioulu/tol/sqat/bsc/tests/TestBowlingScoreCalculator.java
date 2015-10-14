@@ -23,6 +23,13 @@ public class TestBowlingScoreCalculator {
 		assertEquals(0, frame.getSecondThrow());
 	}
 	
+	@Test
+	public void testThrowsAreIncorrectScores() {
+		Frame frame = new Frame(-1,12);
+		assertEquals(0, frame.getFirstThrow());
+		assertEquals(0, frame.getSecondThrow());
+	}
+	
 	
 	@Test
 	public void testFrameScoreIsSumofThrows(){
