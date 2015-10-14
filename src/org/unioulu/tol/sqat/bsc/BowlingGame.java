@@ -15,7 +15,9 @@ public class BowlingGame {
 	}
 	
 	public void addFrame(Frame frame){
+		if(frames.size() < 10){
 		this.frames.add(frame);
+		}
 	}
 	
 	public void setBonus(int firstThrow, int secondThrow) {
