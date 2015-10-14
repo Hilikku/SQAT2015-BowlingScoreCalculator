@@ -9,9 +9,10 @@ public class BowlingGame {
 	private Frame bonus;
 	
 	public BowlingGame(){
-		for(int i=0; i<10; i++) {
-			BowlingGame.addFrame();
-		}
+		
+	if(frames.size() < 10){
+		this.frames = new ArrayList<Frame>();
+	}
 	}
 	
 	public void addFrame(Frame frame){
