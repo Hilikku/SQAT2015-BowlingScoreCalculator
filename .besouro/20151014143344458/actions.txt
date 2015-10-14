@@ -81,3 +81,6 @@ RefactoringAction 1444825832096 TestBowlingScoreCalculator.java RENAME testFrame
 RefactoringAction 1444825833113 TestBowlingScoreCalculator.java RENAME testFrameScoreIsLess()=>void testFrameScoreIsLessThan() METHOD
 RefactoringAction 1444825835132 TestBowlingScoreCalculator.java RENAME testFrameScoreIsLessThan()=>void testFrameScoreIsLessThanZero() METHOD
 EditAction 1444825845990 TestBowlingScoreCalculator.java 1001 5 12 7
+UnitTestCaseAction 1444825847764 TestBowlingScoreCalculator.java OK
+UnitTestSessionAction 1444825847765 TestBowlingScoreCalculator OK
+EditAction 1444825883825 TestBowlingScoreCalculator.java 1001 5 12 7
