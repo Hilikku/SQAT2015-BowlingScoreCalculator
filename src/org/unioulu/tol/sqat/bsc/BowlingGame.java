@@ -30,9 +30,7 @@ public class BowlingGame {
 		this.frames.add(frame);
 		
 	}
-	public int getLength(){
-		return frames.size();
-	}
+
 	
 	public void setBonus(int firstThrow, int secondThrow) {
 		//to be implemented
