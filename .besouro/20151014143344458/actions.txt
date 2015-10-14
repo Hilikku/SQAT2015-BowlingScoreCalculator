@@ -161,3 +161,10 @@ UnitTestCaseAction 1444829623217 TestBowlingScoreCalculator.java FAIL
 UnitTestSessionAction 1444829623217 TestBowlingScoreCalculator FAIL
 RefactoringAction 1444829679516 BowlingGame.java REMOVE getLength() METHOD
 EditAction 1444829680445 BowlingGame.java 838 7 6 0
+CompilationAction 1444829680667 TestBowlingScoreCalculator.java
+FileOpenedAction 1444829724765 PortfolioTest.java 1041 2 13 1
+CompilationAction 1444829902063 TestBowlingScoreCalculator.java
+UnitTestCaseAction 1444829906481 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444829906482 TestBowlingScoreCalculator FAIL
+FileOpenedAction 1444829977518 PortfolioTest.java 1041 2 13 1
+EditAction 1444830145875 TestBowlingScoreCalculator.java 1415 7 19 10
