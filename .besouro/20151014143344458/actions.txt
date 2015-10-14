@@ -18,3 +18,6 @@ RefactoringAction 1444824154713 TestBowlingScoreCalculator.java ADD import org.u
 RefactoringAction 1444824321394 TestBowlingScoreCalculator.java ADD void assertEquals() METHOD
 RefactoringAction 1444824324303 TestBowlingScoreCalculator.java REMOVE assertEquals() METHOD
 EditAction 1444824406821 BowlingGame.java 587 5 2 0
+RefactoringAction 1444824726055 Frame.java ADD int getFirstThrow() METHOD
+RefactoringAction 1444824726055 Frame.java ADD void setFirstThrow(int) METHOD
+EditAction 1444824726058 Frame.java 948 8 9 0
