@@ -11,9 +11,20 @@ public class BowlingGame {
 	public BowlingGame(){
 		
 		this.frames = new ArrayList<Frame>();
+		for(int i=0; i< frames.size(); i++){
+		
+		}
 	
 	}
 	
+	public List<Frame> getFrames() {
+		return frames;
+	}
+
+	public void setFrames(List<Frame> frames) {
+		this.frames = frames;
+	}
+
 	public void addFrame(Frame frame){
 		
 		this.frames.add(frame);
