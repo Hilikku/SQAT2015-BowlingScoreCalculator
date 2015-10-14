@@ -140,3 +140,8 @@ EditAction 1444828924020 BowlingGame.java 639 5 4 0
 EditAction 1444828989596 BowlingGame.java 671 5 4 0
 EditAction 1444829000758 BowlingGame.java 672 5 4 0
 EditAction 1444829038419 BowlingGame.java 684 5 4 0
+RefactoringAction 1444829258281 BowlingGame.java ADD void get FIELD
+RefactoringAction 1444829261294 BowlingGame.java RENAME get=>void getLength FIELD
+RefactoringAction 1444829263809 BowlingGame.java REMOVE getLength FIELD
+RefactoringAction 1444829269822 BowlingGame.java ADD int getLength() METHOD
+EditAction 1444829290809 BowlingGame.java 739 6 5 0
