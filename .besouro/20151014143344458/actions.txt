@@ -45,3 +45,4 @@ RefactoringAction 1444824973348 Frame.java RENAME score()=>int score(int) METHOD
 RefactoringAction 1444824979899 Frame.java RENAME score(int)=>int score(int, int) METHOD
 RefactoringAction 1444825009478 Frame.java RENAME score(int, int)=>int score() METHOD
 EditAction 1444825078042 Frame.java 1167 10 12 0
+EditAction 1444825176729 TestBowlingScoreCalculator.java 565 2 5 3
