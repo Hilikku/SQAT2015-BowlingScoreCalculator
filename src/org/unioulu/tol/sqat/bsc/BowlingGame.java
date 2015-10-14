@@ -15,9 +15,9 @@ public class BowlingGame {
 	}
 	
 	public void addFrame(Frame frame){
-		for(int i=0; i< frames.size(); i++){
+		
 		this.frames.add(frame);
-		}
+		
 	}
 	public int getLength(){
 		return frames.size();
