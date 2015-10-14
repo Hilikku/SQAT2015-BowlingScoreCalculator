@@ -1,8 +1,8 @@
 package org.unioulu.tol.sqat.bsc;
 
 public class Frame {
-	private int firstThrow;
-	private int secondThrow;
+	private static int firstThrow;
+	private static int secondThrow;
 	
 	public Frame(int firstThrow, int secondThrow){
 		this.setFirstThrow(firstThrow);
@@ -11,10 +11,10 @@ public class Frame {
 	
 	//the score of a single frame
 	public int score(){
-		
+		int score = Frame.firstThrow + Frame.secondThrow;
 		
 		//to be implemented
-		return 0;
+		return score;
 	}
 
 	//returns whether the frame is a strike or not

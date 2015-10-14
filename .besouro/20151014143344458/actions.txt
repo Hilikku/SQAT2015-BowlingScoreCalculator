@@ -32,3 +32,16 @@ RefactoringAction 1444824863280 TestBowlingScoreCalculator.java RENAME testPlaye
 RefactoringAction 1444824865294 TestBowlingScoreCalculator.java RENAME testPlayerThrowsFirstTwo()=>void testPlayerThrowsFirstTwoSecond() METHOD
 RefactoringAction 1444824866808 TestBowlingScoreCalculator.java RENAME testPlayerThrowsFirstTwoSecond()=>void testPlayerThrowsFirstTwoSecondFour() METHOD
 EditAction 1444824866872 TestBowlingScoreCalculator.java 436 1 3 2
+RefactoringAction 1444824905739 TestBowlingScoreCalculator.java ADD void test FIELD
+RefactoringAction 1444824909754 TestBowlingScoreCalculator.java RENAME test=>void testPly FIELD
+RefactoringAction 1444824921268 TestBowlingScoreCalculator.java RENAME testPly=>void testPlayerScores FIELD
+RefactoringAction 1444824929784 TestBowlingScoreCalculator.java RENAME testPlayerScores=>void testPlayerS FIELD
+RefactoringAction 1444824936797 TestBowlingScoreCalculator.java RENAME testPlayerS=>void testFrameScore FIELD
+RefactoringAction 1444824939312 TestBowlingScoreCalculator.java RENAME testFrameScore=>void testFrameScoreIs FIELD
+RefactoringAction 1444824942821 TestBowlingScoreCalculator.java RENAME testFrameScoreIs=>void testFrameScoreIsSumofThrow FIELD
+RefactoringAction 1444824944333 TestBowlingScoreCalculator.java RENAME testFrameScoreIsSumofThrow=>void testFrameScoreIsSumofThrows FIELD
+RefactoringAction 1444824945347 TestBowlingScoreCalculator.java RENAME testFrameScoreIsSumofThrows=>void testFrameScoreIsSumofThrows() METHOD
+RefactoringAction 1444824973348 Frame.java RENAME score()=>int score(int) METHOD
+RefactoringAction 1444824979899 Frame.java RENAME score(int)=>int score(int, int) METHOD
+RefactoringAction 1444825009478 Frame.java RENAME score(int, int)=>int score() METHOD
+EditAction 1444825078042 Frame.java 1167 10 12 0
