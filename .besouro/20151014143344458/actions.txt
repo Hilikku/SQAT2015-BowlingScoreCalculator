@@ -145,3 +145,5 @@ RefactoringAction 1444829261294 BowlingGame.java RENAME get=>void getLength FIEL
 RefactoringAction 1444829263809 BowlingGame.java REMOVE getLength FIELD
 RefactoringAction 1444829269822 BowlingGame.java ADD int getLength() METHOD
 EditAction 1444829290809 BowlingGame.java 739 6 5 0
+CompilationAction 1444829291096 TestBowlingScoreCalculator.java
+EditAction 1444829300405 TestBowlingScoreCalculator.java 1343 7 17 10

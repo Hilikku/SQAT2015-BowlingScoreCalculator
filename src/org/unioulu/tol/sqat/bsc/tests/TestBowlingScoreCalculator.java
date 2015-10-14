@@ -52,7 +52,7 @@ public class TestBowlingScoreCalculator {
 	@Test
 	public void testGameConsistsOfTenFrames(){
 		BowlingGame bG = new BowlingGame();
-		assertEquals();
+		assertEquals(10, bG.getLength());
 	}
 	
 }
