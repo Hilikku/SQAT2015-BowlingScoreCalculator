@@ -154,3 +154,6 @@ EditAction 1444829355144 BowlingGame.java 702 6 5 0
 RefactoringAction 1444829578439 BowlingGame.java ADD List<Frame> getFrames() METHOD
 RefactoringAction 1444829578440 BowlingGame.java ADD void setFrames(List<Frame>) METHOD
 EditAction 1444829591232 BowlingGame.java 887 8 8 0
+UnitTestCaseAction 1444829593546 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444829593546 TestBowlingScoreCalculator FAIL
+EditAction 1444829617990 BowlingGame.java 891 8 7 0
