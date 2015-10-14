@@ -10,9 +10,8 @@ public class BowlingGame {
 	
 	public BowlingGame(){
 		
-	if(frames.size() < 10){
 		this.frames = new ArrayList<Frame>();
-	}
+	
 	}
 	
 	public void addFrame(Frame frame){
