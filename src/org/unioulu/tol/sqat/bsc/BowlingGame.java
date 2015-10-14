@@ -10,13 +10,13 @@ public class BowlingGame {
 	
 	public BowlingGame(){
 		
-	if(frames.size() < 10){
-		this.frames = new ArrayList<Frame>();
-	}
+	//if(frames.size() < 10){
+	//	this.frames = new ArrayList<Frame>();
+	//}
 	}
 	
 	public void addFrame(Frame frame){
-		
+		this.stocks.add(frame);
 	}
 	
 	public void setBonus(int firstThrow, int secondThrow) {
