@@ -147,3 +147,6 @@ RefactoringAction 1444829269822 BowlingGame.java ADD int getLength() METHOD
 EditAction 1444829290809 BowlingGame.java 739 6 5 0
 CompilationAction 1444829291096 TestBowlingScoreCalculator.java
 EditAction 1444829300405 TestBowlingScoreCalculator.java 1343 7 17 10
+UnitTestCaseAction 1444829307308 TestBowlingScoreCalculator.java FAIL
+UnitTestSessionAction 1444829307309 TestBowlingScoreCalculator FAIL
+EditAction 1444829344699 BowlingGame.java 739 6 5 0
