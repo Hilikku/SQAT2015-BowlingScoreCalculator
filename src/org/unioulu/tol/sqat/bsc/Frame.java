@@ -8,7 +8,11 @@ public class Frame {
 		this.setFirstThrow(firstThrow);
 		this.setSecondThrow(secondThrow);
 		if(firstThrow == 10){
-			secondThrow = 0;
+			this.setSecondThrow(0);
+		}
+		if(firstThrow < 0 || firstThrow >10 || secondThrow < 0 || secondThrow > 10) {
+			this.setFirstThrow(0);
+			this.setFirstThrow(0);
 		}
 		
 	}
