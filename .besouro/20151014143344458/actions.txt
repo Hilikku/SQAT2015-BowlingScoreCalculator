@@ -132,3 +132,7 @@ CompilationAction 1444827146230 BowlingGame.java
 FileOpenedAction 1444828661176 Portfolio.java 884 9 11 0
 EditAction 1444828710836 BowlingGame.java 643 5 3 0
 EditAction 1444828857339 BowlingGame.java 672 5 3 0
+CompilationAction 1444828857596 BowlingGame.java
+FileOpenedAction 1444828862371 Stock.java 443 5 6 0
+CompilationAction 1444828895284 BowlingGame.java
+EditAction 1444828909635 BowlingGame.java 666 5 4 0
