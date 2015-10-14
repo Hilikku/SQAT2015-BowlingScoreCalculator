@@ -30,6 +30,11 @@ public class TestBowlingScoreCalculator {
 		assertEquals(8, frame.score());
 	}
 
+	@Test
+	public void testFrameScoreIsOverTen(){
+		Frame frame = new Frame(6, 5);
+		assertEquals(0, frame.score());
+	}
 	
 	
 }

@@ -69,3 +69,8 @@ EditAction 1444825563307 TestBowlingScoreCalculator.java 748 3 8 5
 UnitTestCaseAction 1444825565435 TestBowlingScoreCalculator.java FAIL
 UnitTestSessionAction 1444825565435 TestBowlingScoreCalculator FAIL
 EditAction 1444825574789 TestBowlingScoreCalculator.java 748 3 8 5
+RefactoringAction 1444825616775 TestBowlingScoreCalculator.java ADD void testFrameScoreIsSumofThrows()/2 METHOD
+RefactoringAction 1444825624291 TestBowlingScoreCalculator.java RENAME testFrameScoreIsSumofThrows()/2=>void testFrameScoreIs() METHOD
+RefactoringAction 1444825673811 TestBowlingScoreCalculator.java RENAME testFrameScoreIs()=>void testFrameScoreIsOver() METHOD
+RefactoringAction 1444825676827 TestBowlingScoreCalculator.java RENAME testFrameScoreIsOver()=>void testFrameScoreIsOverTen() METHOD
+EditAction 1444825723916 TestBowlingScoreCalculator.java 870 4 10 6
