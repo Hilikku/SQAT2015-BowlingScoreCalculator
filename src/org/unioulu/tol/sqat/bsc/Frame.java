@@ -12,7 +12,7 @@ public class Frame {
 		}
 		if(firstThrow < 0 || firstThrow >10 || secondThrow < 0 || secondThrow > 10) {
 			this.setFirstThrow(0);
-			this.setFirstThrow(0);
+			this.setSecondThrow(0);
 		}
 		
 	}
