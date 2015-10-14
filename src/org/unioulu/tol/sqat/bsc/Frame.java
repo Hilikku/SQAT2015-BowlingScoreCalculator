@@ -7,6 +7,10 @@ public class Frame {
 	public Frame(int firstThrow, int secondThrow){
 		this.setFirstThrow(firstThrow);
 		this.setSecondThrow(secondThrow);
+		if(firstThrow == 10){
+			secondThrow = 0;
+		}
+		
 	}
 	
 	//the score of a single frame
