@@ -14,3 +14,7 @@ RefactoringAction 1444823421292 TestBowlingScoreCalculator.java ADD import org.u
 RefactoringAction 1444823595795 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.Frame IMPORT
 RefactoringAction 1444823789248 TestBowlingScoreCalculator.java REMOVE import org.unioulu.tol.sqat.bsc.Frame IMPORT
 EditAction 1444824111415 Frame.java 802 6 7 0
+RefactoringAction 1444824154713 TestBowlingScoreCalculator.java ADD import org.unioulu.tol.sqat.bsc.Frame IMPORT
+RefactoringAction 1444824321394 TestBowlingScoreCalculator.java ADD void assertEquals() METHOD
+RefactoringAction 1444824324303 TestBowlingScoreCalculator.java REMOVE assertEquals() METHOD
+EditAction 1444824406821 BowlingGame.java 587 5 2 0
